@@ -1,5 +1,5 @@
 {
-  "version": "1.7",
+  "version": "1.8",
   "download_url": "https://github.com/o53353434/pyla/releases/download/v1.8/Pyla.zip",
-  "notes": "Test update to verify the new safe v1.7 updater with ditto, backup restore, permissions fix, and Applications support."
+  "notes": "Small update. Credits changed to Pyla Team."
 }
